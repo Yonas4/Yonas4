@@ -1,13 +1,19 @@
 <div align="center">
 
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=220&section=header&text=Yunes%20Al-Khaledi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Flutter%20Developer%20·%20FinTech%20·%20Clean%20Architecture&descSize=16&descAlignY=55&descAlign=50" />
+
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Senior+Flutter+Developer+%F0%9F%9A%80;FinTech+%26+Investment+Platforms+%F0%9F%92%B3;Clean+Architecture+Advocate+%F0%9F%8F%97%EF%B8%8F;5%2B+Years+Building+Production+Apps+%F0%9F%93%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Senior+Flutter+Developer+·+FinTech+Specialist+🚀;9%2B+Production+Apps+on+Play+Store+%26+App+Store+📱;Clean+Architecture+·+BLoC+·+Riverpod+🏗️;Building+Digital+Wallets+%26+Investment+Platforms+💳)](https://git.io/typing-svg)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Yonas4&label=Profile%20Views&color=02569B&style=flat" alt="profile views" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yunes_Al--Khaledi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunes-alkhaledi)
-[![Email](https://img.shields.io/badge/Email-yonas.12336@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonas.12336@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Yunes_Portfolio-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://yunes-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-yunes.alkhaledi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunes.alkhaledi@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967778420917)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yonas4.github.io-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yonas4.github.io)
 
 </div>
 
@@ -15,34 +21,34 @@
 
 ## 👨‍💻 About Me
 
-```dart
-class YunesAlKhaledi extends FlutterDeveloper {
+**Senior Flutter Developer** with **5+ years** of experience specializing in **FinTech**, investment platforms, and digital wallets. Currently building a large-scale financial mobile app for a company in Riyadh, KSA (remote). Passionate about Clean Architecture and shipping production-grade apps.
 
-  final String name        = "Yunes Al-Khaledi";
-  final String role        = "Senior Flutter Developer";
-  final String focus       = "FinTech · Investment Platforms · Digital Wallets";
-  final int    experience  = 5; // years
-  final String location    = "Riyadh, KSA 🇸🇦 (Remote)";
+📍 Riyadh, KSA 🇸🇦 (Remote) &nbsp;·&nbsp; 🎓 B.Sc. Computer Science — University of Aden (2021)
 
-  final List<String> currentWork = [
-    "🏦 Building a large-scale FinTech mobile app (confidential)",
-    "📊 Investment portfolios, digital wallets & transactions",
-    "🏗️  Clean Architecture — UI / Domain / Data separation",
-  ];
+### ⚡ Quick Highlights
 
-  final List<String> alsoKnownFor = [
-    "🎓 Flutter Trainer @ BBSoft Academy — 50+ developers trained",
-    "📱 7+ production apps on Google Play & App Store",
-    "🔐 Secure API integration for sensitive financial data",
-  ];
+| | |
+|---|---|
+| 📱 **9+ Production Apps** | shipped to Google Play & App Store |
+| 🏦 **FinTech Focus** | portfolios · wallets · transactions |
+| 🏗️ **Clean Architecture** | UI / Domain / Data separation |
+| 🎓 **50+ Developers Trained** | Flutter & Dart at BBSoft Academy |
+| 🔐 **Secure APIs** | financial data integration |
+| 🌍 **Remote-first** | Agile workflow · distributed teams |
 
-  String get motto => "Build it clean. Ship it fast. Make it scale.";
-}
-```
+---
+
+## 🔥 What I'm Working On
+
+- 🏦 **FinTech Platform** — Investment portfolios & digital wallets (Clean Architecture)
+- 🎓 **Training** — Teaching Flutter & Clean Architecture at BBSoft Academy
+- 🌐 **Portfolio** — [yonas4.github.io](https://yonas4.github.io)
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -77,21 +83,6 @@ class YunesAlKhaledi extends FlutterDeveloper {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Platform | Stack |
-|---------|-------------|----------|-------|
-| 🛒 **Medalah Store** | E-commerce app for Medalah Foundation — products, cart & orders | [![Android](https://img.shields.io/badge/Play-3DDC84?style=flat&logo=google-play&logoColor=white)](https://play.google.com) [![iOS](https://img.shields.io/badge/AppStore-000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com) | Flutter · Firebase · REST API |
-| 🚚 **Tagerly Driver** | Delivery management platform for multiple companies in Aden | [![Android](https://img.shields.io/badge/Play-3DDC84?style=flat&logo=google-play&logoColor=white)](https://play.google.com) | Flutter · Clean Arch · REST API |
-| 🗺️ **Aswaq Aden** | City guide — stores & parking in Aden | [![Android](https://img.shields.io/badge/Play-3DDC84?style=flat&logo=google-play&logoColor=white)](https://play.google.com) [![iOS](https://img.shields.io/badge/AppStore-000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com) | Flutter · Google Maps |
-| 🍽️ **Mufeed** | Restaurant discovery — menus, prices & addresses | [![Preview](https://img.shields.io/badge/Preview-02569B?style=flat&logo=flutter&logoColor=white)](https://mufeed-link.com) | Flutter · REST API |
-| 📰 **STC Aden** | News app (YOU-IT Jaridah system) | [![Android](https://img.shields.io/badge/Play-3DDC84?style=flat&logo=google-play&logoColor=white)](https://play.google.com) | Flutter · Firebase |
-| 🛍️ **Tagerly Suite** | 3 e-commerce apps: 361 Yemen, Beutiqaty, Al-Diafa | [![Android](https://img.shields.io/badge/Play-3DDC84?style=flat&logo=google-play&logoColor=white)](https://play.google.com) [![iOS](https://img.shields.io/badge/AppStore-000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com) | Flutter · REST API |
 
 </div>
 
@@ -134,26 +125,15 @@ class YunesAlKhaledi extends FlutterDeveloper {
 
 ---
 
-## 💼 Experience Highlights
-
-```
-📅 5+ Years in Mobile Development
-📱 7+ Production Apps — Google Play & App Store
-👥 50+ Developers Trained in Flutter
-🏦 FinTech Focus: Portfolios · Wallets · Transactions
-🌍 Remote-first, Agile workflow, Distributed teams
-🎓 B.Sc. Computer Science — University of Aden (2021)
-```
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yunes-alkhaledi)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonas.12336@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunes.alkhaledi@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967778420917)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/Yonas4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yonas4.github.io)
 
 </div>
 
@@ -162,5 +142,7 @@ class YunesAlKhaledi extends FlutterDeveloper {
 <div align="center">
 
 *"Build it clean. Ship it fast. Make it scale."* 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=120&section=footer" />
 
 </div>
